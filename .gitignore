@@ -1,0 +1,3 @@
+/midifiles/*
+/node_modules/*
+.vscode
